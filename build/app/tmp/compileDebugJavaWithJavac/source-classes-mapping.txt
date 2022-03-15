@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/date_range_picker_demo/BuildConfig.java
+ com.example.date_range_picker_demo.BuildConfig
